@@ -1,5 +1,5 @@
 ## Hi, Ranteg this side
-I am a computer science undergrad student. Currently, learning & exploring trough computational fundamentals.
+I am a computer science undergrad student. Currently, learning & exploring through computational fundamentals.
 
 
 
