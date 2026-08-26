@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, Ranteg this side
+I am a computer science undergrad student. Currently, learning & exploring trough computational fundamentals.
+
+
+
+
+
+
 
 <!--
 **ranteg-virk/ranteg-virk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
